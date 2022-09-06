@@ -17,12 +17,14 @@
 </p>
 
 ---
-
+<p align="center">
 <i>Take a look at my repositories and let's get in touch!</i>
-
+</p>
 ---
-
+<p align="center">
 <i>Follow me around the web:</i><br>
 
   <a target="_blank" href="https://www.linkedin.com/in/federico-ojeda-462743205/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/fedeshirolamy/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+</p>
+
