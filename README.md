@@ -17,10 +17,14 @@
 </p>
 
 ---
+
 <p align="center">
 <i>Take a look at my repositories and let's get in touch!</i>
 </p>
+
 ---
+
+
 <p align="center">
 <i>Follow me around the web:</i><br>
 
