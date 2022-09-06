@@ -26,7 +26,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
   
-<a href="https://es.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/reactjs.png"/> </a>
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/> </a>
 
 <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>  
 
