@@ -25,6 +25,8 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+  
+<a href="https://es.reactjs.org/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/javascript.png](https://images.app.goo.gl/GGHTkER1dUdZSbfHA)"/> </a>
 
 <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>  
 
