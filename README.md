@@ -8,6 +8,14 @@
 
 ---
 
+<h3><b>About me</b></h3>
+
+<p>I'm Federico, a developer currently living in <b>Buenos Aires, Argentina</b>. I'm studing a technical programmer career at UNQUI university. However, I am constantly researching on my own various technologies that are of interest to me.
+
+- If you can dream it, you can code it.
+
+</p>
+
 
 
 <i>Follow me around the web:</i><br>
